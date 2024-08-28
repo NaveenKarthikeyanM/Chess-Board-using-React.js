@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .box {
+    border: 2px solid #333;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  td {
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    font-size: xx-large;
+  }
+  
+  .white {
+    background-color: lightgreen;
+  }
+  
+  .black {
+    background-color: darkgreen;
+  }
+  
+  table, td {
+    border: 1px solid #333;
+  }
+  
